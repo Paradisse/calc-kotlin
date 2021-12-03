@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="reset_str">C</string>
+    <string name="clear_str">Del</string>
+    <string name="memRead">MR</string>
+    <string name="memSave">MS</string>
+    <string name="six_str">6</string>
+    <string name="five_str">5</string>
+    <string name="one_str">1</string>
+    <string name="three_str">3</string>
+    <string name="multiply_str">*</string>
+    <string name="two_str">2</string>
+    <string name="nine_str">9</string>
+    <string name="zero_str">0</string>
+    <string name="four_str">4</string>
+    <string name="dot_str">.</string>
+    <string name="div_str">/</string>
+    <string name="eight_str">8</string>
+    <string name="seven_str">7</string>
+    <string name="equals_str">=</string>
+    <string name="plus_str">+</string>
+    <string name="minus_str">-</string>
+    <string name="str_power">^</string>
+    <string name="str_sqrt">√</string>
+    <string name="str_sin">sin</string>
+    <string name="str_cos">cos</string>
+    <string name="str_pi">π</string>
+    <string name="str_tan">tan</string>
+    <string name="str_e">e</string>
+    <string name="str_log">log</string>
+    <string name="str_cbracket">)</string>
+    <string name="str_obracket">(</string>
+</resources>
